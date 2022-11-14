@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+}
+.chrome{
+    height: 500px;
+    width: 500px;
+    background-color: lightblue;
+    border: 100px solid;
+    border-radius: 50%;
+    border-bottom-color: yellow;
+    border-top-color: red;
+    border-left-color: green;
+    border-right-color: yellow;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.circle{
+    height: 460px;
+    width: 460px;
+    margin: auto;
+    margin-top: 0px;
+    background-color: blue;
+    border-radius: 50%;
+    border: 20px solid white;
+    
+
+}
